@@ -18,3 +18,4 @@ def is_anagrama_case_sensitive(palabra1:str, palabra2:str):
   print(palabra_uno == palabra_dos)  
 
 is_anagrama_case_sensitive("amor", "Roma")
+is_anagrama_case_sensitive("jorge", "pedro")
