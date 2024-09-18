@@ -7,6 +7,8 @@
  * - Múltiplos de 3 y de 5 a la vez por la palabra "fizzbuzz".
  */
 
+// Prueba de GIT
+
 function fizzbuzz(){
     console.log("incio el fizzbuzz")
     for (let i=1; i<101;i++){
